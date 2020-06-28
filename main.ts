@@ -1,3 +1,3 @@
-import run from "./fibonacci.ts";
+import run from "./sequential_search.ts";
 
-run(10);
+run();
