@@ -1,3 +1,3 @@
-import run from "./sequential_search.ts";
+import run from "./insert_sort.ts";
 
 run();
